@@ -5,3 +5,6 @@ gemspec
 gem "rake"
 gem "test-unit"
 gem "test-unit-ruby-core"
+
+gem "rack"
+gem "rackup"
